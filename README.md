@@ -1,5 +1,7 @@
 # 🌐 My Live Projects
 
+💼 Collection of my live web development projects showcasing responsive UI and real-world client work
+
 ## 🏠 Real Estate Website (Ainsbrook Townhomes)
 🔗 https://www.ainsbrooktownhomes.com/  
 👉 Property website with modern UI and clean layout for showcasing townhomes  
